@@ -1,7 +1,1 @@
-meno: Pavol Lucina
-
-email: lucina2@uniba.sk
-
-vedúci práce: 
-
-téma:
+https://pavollucina.github.io/pl_dp.github.io/
